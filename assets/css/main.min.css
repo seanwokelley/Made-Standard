@@ -154,12 +154,12 @@ a {
 }
 
 a, a:visited {
-  color: #2474a9;
+  color: #6b799f;
   text-decoration: none;
 }
 
 a:hover, a:active {
-  color: #439cd7;
+  color: #99a3bd;
 }
 
 button {
@@ -262,7 +262,7 @@ address {
 # Global
 --------------------------------------------------------------*/
 body {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Hind", sans-serif;
   font-style: normal;
   font-weight: 400;
   color: #555;
@@ -272,7 +272,7 @@ body {
 # Headers
 --------------------------------------------------------------*/
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Hind", sans-serif;
 }
 
 h1 {
@@ -555,7 +555,7 @@ ul ol, ol ol {
 }
 
 dt {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Hind", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: inherit;
@@ -608,7 +608,7 @@ blockquote p:last-child:after {
 # Tables
 --------------------------------------------------------------*/
 table {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Hind", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -699,7 +699,7 @@ pre code {
 # Buttons
 --------------------------------------------------------------*/
 .button, .primary-button, .secondary-button {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Hind", sans-serif;
   font-style: normal;
   font-weight: 400;
   border-radius: 3px;
@@ -713,11 +713,11 @@ pre code {
 }
 
 .primary-button {
-  background-color: #F28410;
+  background-color: #DDC142;
 }
 
 .primary-button:hover {
-  background-color: #f39028;
+  background-color: #e1c858;
   color: #fff;
 }
 
@@ -726,11 +726,11 @@ pre code {
 }
 
 .secondary-button {
-  background-color: #2474a9;
+  background-color: #6b799f;
 }
 
 .secondary-button:hover {
-  background-color: #2e91d2;
+  background-color: #8a95b3;
   color: #fff;
 }
 
@@ -739,10 +739,10 @@ pre code {
 }
 
 .full-button {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Hind", sans-serif;
   font-style: normal;
   font-weight: 300;
-  background-color: #F28410;
+  background-color: #DDC142;
   color: #fff;
   display: block;
   font-size: 25px;
@@ -757,7 +757,7 @@ pre code {
 }
 
 .full-button:hover, .full-button:active {
-  background-color: #f39028;
+  background-color: #e1c858;
   color: #fff;
 }
 
@@ -925,7 +925,7 @@ form li {
 }
 
 label {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Hind", sans-serif;
   font-style: normal;
   font-weight: 400;
   display: inline-block;
@@ -937,7 +937,7 @@ input[type=text], input[type=email], input[type=url], input[type=password],
 input[type=search], input[type=color], input[type=date], input[type=datetime],
 input[type=datetime-local], input[type=number], input[type=range], input[type=tel],
 input[type=time], input[type=week], input[type=file], textarea, select {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Hind", sans-serif;
   font-style: normal;
   font-weight: 400;
   -webkit-appearance: none;
@@ -975,7 +975,7 @@ input[type=text]:focus, input[type=email]:focus, input[type=url]:focus, input[ty
 input[type=search]:focus, input[type=color]:focus, input[type=date]:focus, input[type=datetime]:focus,
 input[type=datetime-local]:focus, input[type=number]:focus, input[type=range]:focus, input[type=tel]:focus,
 input[type=time]:focus, input[type=week]:focus, textarea:focus, select:focus {
-  border-color: #F28410;
+  border-color: #DDC142;
 }
 
 textarea {
@@ -1023,13 +1023,13 @@ input[type=radio]:checked + label, input[type=checkbox]:checked + label {
 }
 
 input[type=submit], button[type=submit], input[type=button] {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Hind", sans-serif;
   font-style: normal;
   font-weight: 400;
   -webkit-appearance: none;
   -moz-appearance: none;
   -o-appearance: none;
-  background-color: #F28410;
+  background-color: #DDC142;
   border: none;
   border-radius: 4px;
   border-radius: 0.25rem;
@@ -1042,7 +1042,7 @@ input[type=submit], button[type=submit], input[type=button] {
 }
 
 input[type=submit]:hover, button[type=submit]:hover, input[type=button]:hover {
-  background-color: #f39028;
+  background-color: #e1c858;
   cursor: pointer;
 }
 
@@ -1084,7 +1084,7 @@ input[type=submit]:hover, button[type=submit]:hover, input[type=button]:hover {
 }
 
 #commentform p {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Hind", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -1206,7 +1206,7 @@ input[type=submit]:hover, button[type=submit]:hover, input[type=button]:hover {
 }
 
 .commentlist {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Hind", sans-serif;
   font-style: normal;
   font-weight: 400;
   list-style: none;
@@ -1255,7 +1255,7 @@ input[type=submit]:hover, button[type=submit]:hover, input[type=button]:hover {
 }
 
 .comment-author address {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Hind", sans-serif;
   font-style: normal;
   font-weight: 700;
 }
@@ -1308,7 +1308,7 @@ input[type=submit]:hover, button[type=submit]:hover, input[type=button]:hover {
 # Post Pagination
 --------------------------------------------------------------*/
 .post-pagination {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Hind", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -1325,7 +1325,7 @@ input[type=submit]:hover, button[type=submit]:hover, input[type=button]:hover {
 # Archive Pagination
 --------------------------------------------------------------*/
 .pagination {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Hind", sans-serif;
   font-style: normal;
   font-weight: 400;
   border-top: 1px solid #ddd;
@@ -1361,7 +1361,7 @@ input[type=submit]:hover, button[type=submit]:hover, input[type=button]:hover {
 }
 
 .pagination .page-numbers:hover, .pagination .page-numbers:active {
-  background-color: #F28410;
+  background-color: #DDC142;
   color: #fff;
 }
 
@@ -1477,7 +1477,7 @@ hr {
 }
 
 .photo-bg:before {
-  background-color: rgba(18, 58, 85, 0.65);
+  background-color: rgba(65, 74, 99, 0.65);
   content: '';
   display: block;
   height: 100%;
@@ -1504,7 +1504,7 @@ hr {
 }
 
 .demo-icon-block [class^="icon-"], .demo-icon-block [class*=" icon-"] {
-  color: #2474a9;
+  color: #6b799f;
   font-size: 31px;
   font-size: 1.9375rem;
 }
@@ -1536,7 +1536,7 @@ hr {
 }
 
 .hero-block:before {
-  background-color: rgba(18, 58, 85, 0.65);
+  background-color: rgba(65, 74, 99, 0.65);
   content: '';
   display: block;
   height: 100%;
@@ -1584,7 +1584,7 @@ hr {
 }
 
 .center-block h2 {
-  color: #2474a9;
+  color: #6b799f;
 }
 
 .center-block p {
@@ -1669,7 +1669,7 @@ hr {
 }
 
 .feature-item [class^="icon-"], .feature-item [class*=" icon-"] {
-  color: #2474a9;
+  color: #6b799f;
   font-size: 31px;
   font-size: 1.9375rem;
   left: 0;
@@ -1932,8 +1932,8 @@ hr {
 }
 
 .social-block li a:hover, .social-block li a:active {
-  background-color: #F28410;
-  border-color: #F28410;
+  background-color: #DDC142;
+  border-color: #DDC142;
   color: #fff;
 }
 

@@ -35,9 +35,9 @@ $alpha-eighty-white: rgba($white, 0.8);
 $alpha-ninety-white: rgba($white, 0.9);
 
 // Brand Color Values
-$brand-color: #86AD59;
-$brand-secondary-color: #2474a9;
-$brand-tertiary-color: #F28410;
+$brand-color: #FFD166;
+$brand-secondary-color: #6b799f;
+$brand-tertiary-color: #DDC142;
 
 // Brand Dark Color Values
 $brand-color-dark: darken($brand-color, 20%);
@@ -83,7 +83,7 @@ $warning-color: yellow;
 $success-color: green;
 
 // Font Families
-$font-family: 'Source Sans Pro', sans-serif;
+$font-family: 'Hind', sans-serif;
 $font-family-alt: $font-family;
 $font-family-mono: ('Consolas', Courier, monospace);
 $header-font-family: $font-family;
